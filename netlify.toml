@@ -1,6 +1,6 @@
 [[redirects]]
-  from ="/"
-  to="/dist/index.html"
+  from ="/*"
+  to="/dist/"
   status=200
 [[headers]]
   for = "/*"
