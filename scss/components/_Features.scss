@@ -1,6 +1,6 @@
 .features{
     min-height: 100vh;
-    --largest:500px;
+    --largest:350px;
     --diff:100px;
     background:#efefef;
     
@@ -8,7 +8,7 @@
     .circle{
        background: #fff;
        box-shadow:$shadow;
-       height:500px;
+       height:350px;
        border-radius: 100%;
        padding: 20px;
        text-align: center;
